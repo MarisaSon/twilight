@@ -1,0 +1,27 @@
+body{
+    background-color:#2C3333
+}
+
+.header, .image-box, .btn{
+    display: flex;
+    justify-content: center;
+}
+
+h1, h2{
+    color:#CBE4DE;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#one, #two, #three{
+    padding: 22px;
+    background-color: #2E4F4F;
+    color: white;
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+    
+
+
